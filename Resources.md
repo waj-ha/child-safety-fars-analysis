@@ -52,5 +52,3 @@ For a presentation, a concise slide might simply contain:
 * Matplotlib, Seaborn
 * Google Colab
 * Child Passenger Safety Research Literature
-
-This is usually enough for an academic data analytics project. 📊📚🚗👶
