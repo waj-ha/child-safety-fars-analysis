@@ -32,6 +32,7 @@
 ### Learning Resources
 
 * [Pandas Documentation](https://pandas.pydata.org/docs/?utm_source=chatgpt.com)
+* [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [NumPy Documentation](https://numpy.org/doc/?utm_source=chatgpt.com)
 * [Matplotlib Documentation](https://matplotlib.org/stable/contents.html?utm_source=chatgpt.com)
 * [Seaborn Documentation](https://seaborn.pydata.org/?utm_source=chatgpt.com)
