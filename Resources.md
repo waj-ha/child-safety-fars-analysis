@@ -32,7 +32,7 @@
 ### Learning Resources
 
 * [Pandas Documentation](https://pandas.pydata.org/docs/?utm_source=chatgpt.com)
-* [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+  [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
   
 * [NumPy Documentation](https://numpy.org/doc/?utm_source=chatgpt.com)
   
