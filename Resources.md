@@ -48,6 +48,7 @@ For a presentation, a concise slide might simply contain:
 
 * FARS 2024 Dataset (NHTSA)
 * FARS Analytical User's Manual
+* [Fatality Analysis Reporting System Analytical User’s Manual, 1975-2024](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813794)
 * Python, Pandas, NumPy
 * Matplotlib, Seaborn
 * Google Colab
